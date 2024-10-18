@@ -4,7 +4,7 @@
 <h3 align="center">A high-tech samurai from Russia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hanamilux&label=Profile%20views&color=b40e7f&style=flat" alt="hanamilux" /> </p>
 <div align="center">
-🌱 I’m currently learning <b>Kotlin</b>
+🌱 I’m currently learning <b>React</b>
   
 📫 How to reach me **oxotnikzn2017@yandex.ru**
 </div>
